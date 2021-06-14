@@ -35,7 +35,7 @@ An advanced Music Bot, with 30+ Radio Stations, with capability of filters, like
  
  **5.** start the bot with **`node index.js`**
  
- [![Run on Repl.it](https://repl.it/badge/github/navaneethkm004/Music-Bot-With-Filters-v2)](https://repl.it/github/navaneethkm004/Music-Bot-With-Filters-v2)
+ [![Run on Repl.it](https://replit.com/@KabirJaipal/A-Advance-Discord-Music-Bot-With-Filters-and-Radio#README.md)](https://replit.com/@KabirJaipal/A-Advance-Discord-Music-Bot-With-Filters-and-Radio#README.md)
 
 
 ## **TUTORIAL** 

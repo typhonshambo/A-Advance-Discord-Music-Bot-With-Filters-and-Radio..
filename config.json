@@ -1,0 +1,7 @@
+{
+  "TOKEN": "YOUR-TOKEN",
+  "PREFIX": "YOUR_PREFIX",
+  "approveemoji": "✅",
+  "denyemoji": "🚫",
+  "erroremoji": "️❗"
+}

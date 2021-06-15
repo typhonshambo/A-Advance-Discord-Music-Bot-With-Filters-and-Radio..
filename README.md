@@ -64,4 +64,4 @@ It is important that you fill in every item of the JSON FILE! every emoji used i
 
 ## Credits
 
-[@tomato](https://github.com/navaneethkm004/) For the Reacting system to messages, great Idea i adopted that [@Tomato6966/MUSIC-BOT](https://github.com/navaneethkm004/Music-Bot-With-Filters-v2)
+[@navaneethkm004](https://github.com/navaneethkm004/) For the Reacting system to messages, great Idea i adopted that [@navaneethkm004/MUSIC-BOT](https://github.com/navaneethkm004/Music-Bot-With-Filters-v2)

@@ -61,3 +61,7 @@ It is important that you fill in every item of the JSON FILE! every emoji used i
 
 *If you are having errors/problems with starting delete the package.json file and do, before you install the packages `npm init`*
 
+
+## Credits
+
+[@tomato](https://github.com/navaneethkm004/) For the Reacting system to messages, great Idea i adopted that [@Tomato6966/MUSIC-BOT](https://github.com/navaneethkm004/Music-Bot-With-Filters-v2)
